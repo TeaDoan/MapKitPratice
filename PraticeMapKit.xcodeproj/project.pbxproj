@@ -12,6 +12,7 @@
 		B005932D21C32F6300EC7250 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B005932B21C32F6300EC7250 /* Main.storyboard */; };
 		B005932F21C32F6700EC7250 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B005932E21C32F6700EC7250 /* Assets.xcassets */; };
 		B005933221C32F6700EC7250 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B005933021C32F6700EC7250 /* LaunchScreen.storyboard */; };
+		B005933A21C4657E00EC7250 /* LocationSearchBarTableViewContronller.swift in Sources */ = {isa = PBXBuildFile; fileRef = B005933921C4657E00EC7250 /* LocationSearchBarTableViewContronller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B005932E21C32F6700EC7250 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B005933121C32F6700EC7250 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B005933321C32F6700EC7250 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B005933921C4657E00EC7250 /* LocationSearchBarTableViewContronller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchBarTableViewContronller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B005932721C32F6300EC7250 /* AppDelegate.swift */,
 				B005932921C32F6300EC7250 /* ViewController.swift */,
+				B005933921C4657E00EC7250 /* LocationSearchBarTableViewContronller.swift */,
 				B005932B21C32F6300EC7250 /* Main.storyboard */,
 				B005932E21C32F6700EC7250 /* Assets.xcassets */,
 				B005933021C32F6700EC7250 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				B005932A21C32F6300EC7250 /* ViewController.swift in Sources */,
 				B005932821C32F6300EC7250 /* AppDelegate.swift in Sources */,
+				B005933A21C4657E00EC7250 /* LocationSearchBarTableViewContronller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
